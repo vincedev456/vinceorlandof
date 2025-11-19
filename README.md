@@ -11,16 +11,6 @@ Estou desenvolvendo o **[ProAcolhe - CSC](https://github.com/vicentefresillo/pro
 
 ---
 
-#### 📊 Minhas Estatísticas no GitHub
-<div align="center">
-  <a href="https://github.com/vicentefresillo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicentefresillo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentefresillo&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
 #### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
