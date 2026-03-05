@@ -1,4 +1,4 @@
-### Olá! Sou Vicente Orlando Fresillo 🦁
+### Olá! Sou Vicente,
 
 Estudante de Análise e Desenvolvimento de Sistemas na **FATEC-SP**.
 Apaixonado por entender como as coisas funcionam "por baixo do capô" (C lover 💙) e criar interfaces modernas e funcionais.
